@@ -1,3 +1,4 @@
+*для запуска установить composer настроить env и запустить команду php artisan serve*
 # Laravel Short Link
 
 Простое веб-приложение для сокращения ссылок на PHP (Laravel) с поддержкой REST API.
