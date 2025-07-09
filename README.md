@@ -15,4 +15,5 @@
 - Laravel 12.x
 - MySQL
 - REST API
-*для запуска установить composer настроить env и команда php artisan serve
+
+*для запуска установить composer настроить env и команда php artisan serve*
